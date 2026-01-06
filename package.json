@@ -1,0 +1,8 @@
+{
+  "name": "bulk-email",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemailer": "^6.9.7",
+    "xlsx": "^0.18.5"
+  }
+}
